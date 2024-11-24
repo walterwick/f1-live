@@ -364,7 +364,7 @@ export default function Home() {
                 <p style={{ marginRight: "var(--space-4)" }}>ms</p>
               </form>
               <a
-                href="https://github.com/tdjsnelling/monaco"
+                href="https://github.com/walterwick"
                 target="_blank"
                 style={{ color: "grey" }}
               >
